@@ -35,3 +35,10 @@ To export alert rules from the Grafana UI, complete the following steps.
 ```
 
 source: https://grafana.com/docs/grafana/latest/alerting/set-up/provision-alerting-resources/export-alerting-resources/
+
+## thanxs
+
+This repo won't have been possible without these guys :
+
+- https://medium.com/@slimaine.bensadoun/how-to-export-import-datasource-on-grafana-ded1cc49a154
+- https://gist.github.com/crisidev/bd52bdcc7f029be2f295
