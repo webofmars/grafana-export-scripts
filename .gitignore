@@ -1,3 +1,6 @@
 alertrules/**
+!alertrules/README.md
 dashboards/**
+!dashboards/README.md
 datasources/**
+!datasources/README.md
